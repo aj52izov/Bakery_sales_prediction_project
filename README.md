@@ -1,16 +1,16 @@
-# [Your Project Title Here]
+# BAKERY SALES PREDICTION
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+https://github.com/aj52izov/Bakery_sales_prediction_project.git
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+Given past and current observations, explore, design and train a machine learning model to predict future bakery sales.
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Time series prediction
 
 ### Results Summary
 
@@ -28,4 +28,4 @@
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/cover_image.png)
+![Project Cover Image](CoverImage/cover_image.jpeg)
