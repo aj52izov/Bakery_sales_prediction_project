@@ -5,7 +5,7 @@ def read_data():
 
     # Weather Cloud Cover: https://en.wikipedia.org/wiki/Okta
     # Weather Code:  https://wetterkanal.kachelmannwetter.com/was-ist-der-ww-code-in-der-meteorologie/
-    weather_df = weather_df.astype({'nnav': 'category', 'wwav': 'category'})
+    weather_df = weather_df.astype({'nnav': 'category'})
     # sort by date
     weather_df.sort_values(by=['Date'], inplace=True)
     
