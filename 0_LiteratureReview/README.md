@@ -19,3 +19,11 @@ Approaches or solutions that have been tried before on similar projects.
   - **Methods**: Train the selected models with different length of sliding time window of size (w) and amounts of time step to predict into the future (k).
   - **Outcomes**: A relationship exist between the performance and the look-back window sizes and the number of predicted time points into the future. Transformer-based models have the best performance
   - **Relation to the Project**: Since our project is related to a time series problem, this can help us to architect our model
+
+- **Source 3**: Time Series Forecasting (TSF) Using Various Deep Learning Models
+
+  - **[Link](https://arxiv.org/ftp/arxiv/papers/2204/2204.11115.pdf)**
+  - **Objective**: Study how the performance of predictive models change as a function of different look-back window sizes and different amounts of time to predict into the future.They also consider the performance of the recent attention-based Transformer models by compare four different deep learning methods (RNN, LSTM, GRU, and Transformer).
+  - **Methods**: Train the selected models with different length of sliding time window of size (w) and amounts of time step to predict into the future (k).
+  - **Outcomes**: A relationship exist between the performance and the look-back window sizes and the number of predicted time points into the future. Transformer-based models have the best performance
+  - **Relation to the Project**: Since our project is related to a time series problem, this can help us to architect our model  
